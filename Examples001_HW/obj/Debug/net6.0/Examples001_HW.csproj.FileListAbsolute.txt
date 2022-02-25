@@ -1,0 +1,15 @@
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\bin\Debug\net6.0\Examples001_HW.exe
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\bin\Debug\net6.0\Examples001_HW.deps.json
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\bin\Debug\net6.0\Examples001_HW.runtimeconfig.json
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\bin\Debug\net6.0\Examples001_HW.dll
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\bin\Debug\net6.0\Examples001_HW.pdb
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.csproj.AssemblyReference.cache
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.AssemblyInfoInputs.cache
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.AssemblyInfo.cs
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.csproj.CoreCompileInputs.cache
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.dll
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\refint\Examples001_HW.dll
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.pdb
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\Examples001_HW.genruntimeconfig.cache
+E:\Учеба\Разработчик\Языки программирования\С #\Examples\Examples001_HW\obj\Debug\net6.0\ref\Examples001_HW.dll
